@@ -55,3 +55,4 @@ kubectl label namespace default istio-injection=enabled
 {{ /execute }}
 
 Till here, we've completed the download and installation of the Istio v1.13.2 and labeled the namespace for further automated processes. We will see the application deployment part and networking setup in the next step.
+Testing Sync Scenario
